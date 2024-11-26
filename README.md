@@ -1,4 +1,4 @@
-## Olá, eu sou Luan Batista!👨‍💻 </br>Curso Ciência da Computação na **UNESP**
+## Olá, eu sou Luan Batista!👨‍💻 </br>Estudante Ciência da Computação na **UNESP**
 
 <div align="center">
   <a href="https://github.com/Luan-Batista">
