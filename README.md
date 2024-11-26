@@ -44,7 +44,7 @@
  
 <div> 
   <a href="https://www.instagram.com/luan_bat1sta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luanbatist028@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanbatist028@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-batista-66bb8a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
